@@ -1,0 +1,15 @@
+{
+    "name": "fengjianfei/webtool",
+    "authors": [
+        {
+            "name": "fengjianfei",
+            "email": "769890321@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Base\\": "src/Base"
+        }
+    }
+}
